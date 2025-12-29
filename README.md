@@ -2,7 +2,11 @@
 
 BC Table & Fields Finder is a web-based tool designed to help Microsoft Dynamics 365 Business Central developers and functional consultants quickly find tables and fields metadata.
 
-![Live Demo](https://taher-el-mehdi.github.io/bc-table-field-finder/)
+[**LIVE DEMO**](https://taher-el-mehdi.github.io/bc-table-field-finder/)
+
+![Tables](./src/imgs/Table.png)
+![Fields](./src/imgs/Fields.png)
+
 
 ## 🚀 Features
 
